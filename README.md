@@ -1,3 +1,4 @@
 # transcriptor
-AINDA EM CONSTRUÇÃO<br>  
-Criação de um programinha que pega um vídeo do youtube, baixa o áudio e transcreve seu texto.
+
+STILL UNDER CONSTRUCTION
+Creation of a small program that takes a YouTube video, downloads the audio, and transcribes its text.
